@@ -10,7 +10,7 @@ by adding `ecarg` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:ecarg, "~> 0.1.0"}
+    {:ecarg, "~> 0.0.1"}
   ]
 end
 ```
